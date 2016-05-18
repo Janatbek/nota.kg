@@ -324,7 +324,7 @@ $songarray = [];
                     $(el).mCustomScrollbar("scrollTo",to);
                     output.text("$('"+el+"').mCustomScrollbar('scrollTo',"+outputTXT+");");
                 });
-				
+				// end of text
             });
         })(jQuery);
     </script>
