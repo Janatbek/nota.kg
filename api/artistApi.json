@@ -1,0 +1,117 @@
+﻿{
+  "list": [
+    {
+      "url": "http://music.nur.kz/artist-music-21759-dantes-i-olejnik",
+      "artist": "Дантес и Олейник",
+      "altName": [ "ДиО", "Dio", "ДІО" ],
+      "genres": [ 174, 165 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-105913-ernar-ajdar",
+      "page": 24,
+      "artist": "Ернар Айдар",
+      "altName": [ "Ernar Aidar", "Ernar Aydar" ],
+      "genres": [ 173, 165 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-22903-denar",
+      "artist": "Денар",
+      "altName": [ "Denar" ],
+      "genres": [ 173, 165 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-22946-dani",
+      "artist": "Дани",
+      "altName": [ "Dani" ],
+      "genres": [ 174, 165 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-23592-dzha",
+      "artist": "Джа",
+      "altName": [ "жа", "dja" ],
+      "genres": [ 171, 173 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-24265-david-ogan",
+      "artist": "Давид Оган",
+      "altName": [ "David Ogan" ],
+      "genres": [ 174, 165 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-24364-di-kej",
+      "artist": "Ди-кей",
+      "altName": [ "Ди кей", "Di Key" ],
+      "genres": [ 174, 165 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-24673-duman",
+      "artist": "Думан",
+      "altName": [ "Duman kz"],
+      "genres": [ 173, 176 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-24696-dzhet",
+      "artist": "ДжетЪ",
+      "altName": [ "Джет", "Djet"],
+      "genres": [ 178, 177, 174 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-24804-danik(2009)",
+      "artist": "Даник",
+      "altName": [ "Danik"],
+      "genres": [ 175, 171, 174 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-24865-dino-ms-47",
+      "page": 2,
+      "artist": "Дино Мс 47",
+      "altName": [ "Dino Mc 47"],
+      "genres": [ 171, 174 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-25873-damat",
+      "artist": "Дамат",
+      "altName": [ "Damat"],
+      "genres": [ 171, 174 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-26960-dos",
+      "artist": "Дос",
+      "altName": [ "Dos"],
+      "genres": [ 173, 165 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-1215-dos",
+      "artist": "Дос",
+      "altName": [ "Dos"],
+      "genres": [ 173, 165 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-27173-didi",
+      "artist": "Диди",
+      "altName": [ "Didi"],
+      "genres": [ 173, 165 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-27465-dzhastin-biber",
+      "page": 2,
+      "artist": "Justin Bieber",
+      "altName": [ "Джастин Бибер"],
+      "genres": [ 175, 165, 179, 180 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-47084-magomed-dzibov",
+      "page": 3,
+      "artist": "МАГОМЕД ДЗЫБОВ",
+      "altName": [ "Магамет Дзыбов"],
+      "genres": [ 175, 165, 182, 180, 181 ]
+    },
+    {
+      "url": "http://music.nur.kz/artist-music-29621-magamet-dzibov",
+      "page": 2,
+      "artist": "МАГОМЕД ДЗЫБОВ",
+      "altName": [ "Магамет Дзыбов"],
+      "genres": [ 175, 165, 182, 180, 181 ]
+    }
+  ]
+}
